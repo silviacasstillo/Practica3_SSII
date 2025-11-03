@@ -1,0 +1,168 @@
+1	Proxy	Fri Oct 31 11:14:00 CET 2025	GET	http://localhost:8000/	302	Found	24	0	Bajo	false	SetCookie
+3	Proxy	Fri Oct 31 11:14:00 CET 2025	GET	http://localhost:8000/login.php	200	OK	7	1342	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+4	Proxy	Fri Oct 31 11:14:01 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	3	842	Bajo	false	
+10	Proxy	Fri Oct 31 11:14:09 CET 2025	POST	http://localhost:8000/login.php	302	Found	14	0	Bajo	false	SetCookie
+11	Proxy	Fri Oct 31 11:14:09 CET 2025	GET	http://localhost:8000/index.php	200	OK	6	6530	Medio	false	Script
+12	Proxy	Fri Oct 31 11:14:09 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	19	5149	Bajo	false	Comment
+13	Proxy	Fri Oct 31 11:14:09 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	14	593	Bajo	false	
+14	Proxy	Fri Oct 31 11:14:09 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	34	1240	Bajo	false	Comment
+18	Proxy	Fri Oct 31 11:14:13 CET 2025	GET	http://localhost:8000/vulnerabilities/fi/?page=include.php	200	OK	19	5287	Medio	false	Script
+21	Proxy	Fri Oct 31 11:14:13 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	25	1240	Bajo	false	Comment
+22	Proxy	Fri Oct 31 11:14:13 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	20	5149	Bajo	false	Comment
+23	Proxy	Fri Oct 31 11:14:13 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	16	593	Bajo	false	
+26	Proxy	Fri Oct 31 11:14:15 CET 2025	GET	http://localhost:8000/vulnerabilities/fi/?page=file1.php	200	OK	37	4640	Medio	false	Script
+27	Proxy	Fri Oct 31 11:14:16 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	15	5149	Bajo	false	Comment
+28	Proxy	Fri Oct 31 11:14:16 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	14	593	Bajo	false	
+29	Proxy	Fri Oct 31 11:14:16 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	13	1240	Bajo	false	Comment
+32	Proxy	Fri Oct 31 11:14:18 CET 2025	GET	http://localhost:8000/vulnerabilities/fi/?page=include.php	200	OK	10	5287	Medio	false	Script
+33	Proxy	Fri Oct 31 11:14:18 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	8	5149	Bajo	false	Comment
+34	Proxy	Fri Oct 31 11:14:18 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	25	593	Bajo	false	
+35	Proxy	Fri Oct 31 11:14:18 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	19	1240	Bajo	false	Comment
+38	Proxy	Fri Oct 31 11:14:20 CET 2025	GET	http://localhost:8000/vulnerabilities/xss_d/	200	OK	26	5152	Medio	false	Form,Script
+40	Proxy	Fri Oct 31 11:14:21 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	9	5149	Bajo	false	Comment
+41	Proxy	Fri Oct 31 11:14:21 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	20	1240	Bajo	false	Comment
+42	Proxy	Fri Oct 31 11:14:21 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	37	593	Bajo	false	
+45	Proxy	Fri Oct 31 11:14:24 CET 2025	GET	https://owasp.org/www-community/attacks/xss/	200	OK	5402	54542	Medio	false	Comment,Form,Script
+50	Proxy	Fri Oct 31 11:14:29 CET 2025	GET	https://owasp.org/www--site-theme/assets/js/js.cookie.min.js	200	OK	239	1731	Medio	false	Comment
+54	Proxy	Fri Oct 31 11:14:30 CET 2025	GET	https://owasp.org/www--site-theme/assets/css/styles.css	200	OK	423	178701	Medio	false	Comment
+55	Proxy	Fri Oct 31 11:14:30 CET 2025	GET	https://owasp.org/www--site-theme/assets/js/jquery-3.7.1.min.js	200	OK	356	87533	Medio	false	Comment,Form,Script
+56	Proxy	Fri Oct 31 11:14:30 CET 2025	GET	https://owasp.org/www--site-theme/assets/js/kjua.min.js	200	OK	369	28429	Medio	false	Comment
+57	Proxy	Fri Oct 31 11:14:30 CET 2025	GET	https://owasp.org/www--site-theme/assets/js/yaml.min.js	200	OK	369	43332	Medio	false	
+59	Proxy	Fri Oct 31 11:14:30 CET 2025	GET	https://owasp.org/www--site-theme/assets/js/util.js	200	OK	373	2203	Medio	false	Comment
+65	Proxy	Fri Oct 31 11:14:31 CET 2025	GET	https://owasp.org/www-community/assets/sitedata/banner-data.yml	200	OK	159	734	Medio	false	
+71	Proxy	Fri Oct 31 11:14:31 CET 2025	GET	https://owasp.org/www-community/assets/sitedata/popup-data.yml	200	OK	624	1337	Medio	false	
+72	Proxy	Fri Oct 31 11:14:32 CET 2025	GET	https://owasp.org/www--site-theme/assets/sitedata/menus.json	200	OK	673	6425	Medio	false	Form,JSON
+74	Proxy	Fri Oct 31 11:14:32 CET 2025	GET	https://owasp.org/assets/sitedata/events.yml	200	OK	798	4105	Medio	false	
+76	Proxy	Fri Oct 31 11:14:32 CET 2025	GET	https://owasp.org/assets/font/ubuntu-regular.woff2	200	OK	986	29476	Medio	false	
+78	Proxy	Fri Oct 31 11:14:32 CET 2025	GET	https://owasp.org/assets/font/ubuntu-medium.woff2	200	OK	1352	28576	Medio	false	Comment
+79	Proxy	Fri Oct 31 11:14:32 CET 2025	GET	https://owasp.org/assets/fontawesome/fa-brands-400.woff2	200	OK	1368	117372	Medio	false	Comment
+81	Proxy	Fri Oct 31 11:14:32 CET 2025	GET	https://owasp.org/assets/fontawesome/fa-solid-900.woff2	200	OK	1532	156496	Medio	false	Comment
+82	Proxy	Fri Oct 31 11:14:33 CET 2025	GET	https://owasp.org/assets/sitedata/corp_members.yml	200	OK	932	55972	Medio	false	
+83	Proxy	Fri Oct 31 11:14:34 CET 2025	GET	http://localhost:8000/	200	OK	22	6443	Medio	false	Script
+93	Proxy	Fri Oct 31 11:14:38 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	18	5149	Bajo	false	Comment
+94	Proxy	Fri Oct 31 11:14:38 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	20	593	Bajo	false	
+95	Proxy	Fri Oct 31 11:14:38 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	20	1240	Bajo	false	Comment
+100	Proxy	Fri Oct 31 11:14:42 CET 2025	GET	http://localhost:8000/logout.php	302	Found	8	0	Bajo	false	
+101	Proxy	Fri Oct 31 11:14:42 CET 2025	GET	http://localhost:8000/login.php	200	OK	9	1388	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+102	Proxy	Fri Oct 31 11:14:42 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	5	842	Bajo	false	
+104	Proxy	Fri Oct 31 11:17:51 CET 2025	POST	http://localhost:8000/login.php	302	Found	17	0	Bajo	false	SetCookie
+105	Proxy	Fri Oct 31 11:17:51 CET 2025	GET	http://localhost:8000/login.php	200	OK	6	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+106	Proxy	Fri Oct 31 11:17:51 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	5	842	Bajo	false	
+108	Proxy	Fri Oct 31 11:18:17 CET 2025	GET	https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xMDA5L2I2MmM2ZjY0ZWEzY2ExZTFjMmQzMzcwMWZkYmQzMmE0MzllMzRmNDJlZGY5MDQwYTAzNjIwYjg3MDc1NDU1MDguanBnEiCoCsoQw36V5WNmQ0vWqhmhvIgqspGFNqJ3OVrxYFABxg	200	OK	328	245	Bajo	false	
+110	Proxy	Fri Oct 31 11:18:17 CET 2025	GET	https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xNDc2LzkyNzIwM2E2ZjZkNDhhZjdhOGY3YTZiYjhhZjZkODI5OGNkZDBkNWIzZTc0OGI0ZDlkMTcxMzNkYTE3NWI1ZjIuanBnEiCGlGucybXNrWuyBJ9GcZ_b_f13CC8rpcEDI3taf76l8g	200	OK	373	30	Bajo	false	
+112	Proxy	Fri Oct 31 11:18:41 CET 2025	POST	http://localhost:8000/login.php	302	Found	11	0	Bajo	false	SetCookie
+113	Proxy	Fri Oct 31 11:18:41 CET 2025	GET	http://localhost:8000/login.php	200	OK	15	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+114	Proxy	Fri Oct 31 11:18:41 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	30	842	Bajo	false	
+116	Proxy	Fri Oct 31 11:18:49 CET 2025	POST	http://localhost:8000/login.php	302	Found	9	0	Bajo	false	SetCookie
+117	Proxy	Fri Oct 31 11:18:49 CET 2025	GET	http://localhost:8000/index.php	200	OK	3	6530	Medio	false	Script
+118	Proxy	Fri Oct 31 11:18:50 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	3	1240	Bajo	false	Comment
+119	Proxy	Fri Oct 31 11:18:50 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	3	593	Bajo	false	
+120	Proxy	Fri Oct 31 11:18:50 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	6	5149	Bajo	false	Comment
+123	Proxy	Fri Oct 31 11:23:10 CET 2025	GET	http://localhost:8000/logout.php	302	Found	15	0	Bajo	false	
+124	Proxy	Fri Oct 31 11:23:10 CET 2025	GET	http://localhost:8000/login.php	200	OK	8	1388	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+125	Proxy	Fri Oct 31 11:23:10 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	3	842	Bajo	false	
+127	Proxy	Fri Oct 31 11:26:31 CET 2025	POST	http://localhost:8000/login.php	302	Found	10	0	Bajo	false	SetCookie
+128	Proxy	Fri Oct 31 11:26:33 CET 2025	GET	http://localhost:8000/login.php	200	OK	16	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+129	Proxy	Fri Oct 31 11:26:33 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	4	842	Bajo	false	
+131	Proxy	Fri Oct 31 11:26:56 CET 2025	POST	http://localhost:8000/login.php	302	Found	17	0	Bajo	false	SetCookie
+132	Proxy	Fri Oct 31 11:26:56 CET 2025	GET	http://localhost:8000/login.php	200	OK	21	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+133	Proxy	Fri Oct 31 11:26:56 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	11	842	Bajo	false	
+135	Proxy	Fri Oct 31 11:27:56 CET 2025	POST	http://localhost:8000/login.php	302	Found	13	0	Bajo	false	SetCookie
+136	Proxy	Fri Oct 31 11:28:16 CET 2025	GET	http://localhost:8000/login.php	200	OK	8	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+137	Proxy	Fri Oct 31 11:33:59 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	3	842	Bajo	false	
+138	Proxy	Fri Oct 31 11:34:32 CET 2025	POST	https://spocs.getpocket.com/spocs	502	Bad Gateway	5	335		false	
+141	Proxy	Fri Oct 31 11:38:21 CET 2025	POST	https://spocs.getpocket.com/spocs	200	OK	245	1179	Bajo	false	JSON
+142	Proxy	Fri Oct 31 11:43:16 CET 2025	POST	http://localhost:8000/login.php	302	Found	16	0	Bajo	false	SetCookie
+143	Proxy	Fri Oct 31 11:43:16 CET 2025	GET	http://localhost:8000/login.php	200	OK	5	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+144	Proxy	Fri Oct 31 11:43:16 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	7	842	Bajo	false	
+146	Proxy	Fri Oct 31 11:44:11 CET 2025	POST	http://localhost:8000/login.php	302	Found	18	0	Bajo	false	SetCookie
+147	Proxy	Fri Oct 31 11:44:11 CET 2025	GET	http://localhost:8000/index.php	200	OK	6	6530	Medio	false	Script
+148	Proxy	Fri Oct 31 11:44:11 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	19	5149	Bajo	false	Comment
+149	Proxy	Fri Oct 31 11:44:11 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	17	1240	Bajo	false	Comment
+150	Proxy	Fri Oct 31 11:44:11 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	19	593	Bajo	false	
+153	Proxy	Fri Oct 31 11:52:34 CET 2025	GET	http://localhost:8000/logout.php	302	Found	8	0	Bajo	false	
+154	Proxy	Fri Oct 31 11:52:35 CET 2025	GET	http://localhost:8000/login.php	200	OK	15	1388	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+155	Proxy	Fri Oct 31 11:52:35 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	13	842	Bajo	false	
+157	Proxy	Fri Oct 31 11:53:25 CET 2025	POST	http://localhost:8000/login.php	302	Found	14	0	Bajo	false	SetCookie
+158	Proxy	Fri Oct 31 11:53:28 CET 2025	GET	http://localhost:8000/login.php	200	OK	9	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+160	Proxy	Fri Oct 31 11:53:32 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	2	842	Bajo	false	
+161	Proxy	Fri Oct 31 11:53:42 CET 2025	GET	https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xNDMxL2UxYjMxOGJkNDkzNDYyN2Q3MjZkNTFmOWM1ZDQyNTVjZWFhNjI0MWRkYmY4M2RmMDE5MGUyMjBiN2E4MWUyODUuanBnEiCF1FoJ1nRR2YvYgV1umBhTKA482BKOK56b6gVGpg0XUQ	200	OK	204	245	Bajo	false	
+162	Proxy	Fri Oct 31 11:58:53 CET 2025	POST	http://localhost:8000/login.php	302	Found	15	0	Bajo	false	SetCookie
+163	Proxy	Fri Oct 31 11:58:53 CET 2025	GET	http://localhost:8000/index.php	200	OK	10	6530	Medio	false	Script
+164	Proxy	Fri Oct 31 11:58:54 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	17	5149	Bajo	false	Comment
+165	Proxy	Fri Oct 31 11:58:54 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	10	1240	Bajo	false	Comment
+166	Proxy	Fri Oct 31 11:58:54 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	16	593	Bajo	false	
+169	Proxy	Fri Oct 31 12:08:36 CET 2025	POST	https://spocs.getpocket.com/spocs	200	OK	220	1179	Bajo	false	JSON
+197	Proxy	Sat Nov 01 13:40:04 CET 2025	GET	http://localhost:8000/	302	Found	18	0	Bajo	false	SetCookie
+198	Proxy	Sat Nov 01 13:40:04 CET 2025	GET	http://localhost:8000/login.php	200	OK	17	1342	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+199	Proxy	Sat Nov 01 13:40:05 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	14	842	Bajo	false	
+203	Proxy	Sat Nov 01 13:40:38 CET 2025	POST	http://localhost:8000/login.php	302	Found	19	0	Bajo	false	SetCookie
+204	Proxy	Sat Nov 01 13:40:38 CET 2025	GET	http://localhost:8000/index.php	200	OK	5	6530	Medio	false	Script
+205	Proxy	Sat Nov 01 13:40:38 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	14	593	Bajo	false	
+206	Proxy	Sat Nov 01 13:40:38 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	67	1240	Bajo	false	Comment
+207	Proxy	Sat Nov 01 13:40:38 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	52	5149	Bajo	false	Comment
+210	Proxy	Sat Nov 01 13:40:42 CET 2025	GET	http://localhost:8000/logout.php	302	Found	10	0	Bajo	false	
+211	Proxy	Sat Nov 01 13:40:42 CET 2025	GET	http://localhost:8000/login.php	200	OK	12	1388	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+212	Proxy	Sat Nov 01 13:40:42 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	4	842	Bajo	false	
+241	Proxy	Sat Nov 01 13:44:08 CET 2025	GET	http://localhost:8000/	302	Found	44	0	Bajo	false	SetCookie
+242	Proxy	Sat Nov 01 13:44:09 CET 2025	GET	http://localhost:8000/login.php	200	OK	19	1342	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+243	Proxy	Sat Nov 01 13:44:09 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	9	842	Bajo	false	
+247	Proxy	Sat Nov 01 13:44:16 CET 2025	POST	http://localhost:8000/login.php	302	Found	13	0	Bajo	false	SetCookie
+248	Proxy	Sat Nov 01 13:44:16 CET 2025	GET	http://localhost:8000/index.php	200	OK	14	6530	Medio	false	Script
+249	Proxy	Sat Nov 01 13:44:16 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	17	5149	Bajo	false	Comment
+250	Proxy	Sat Nov 01 13:44:16 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	22	1240	Bajo	false	Comment
+251	Proxy	Sat Nov 01 13:44:16 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	14	593	Bajo	false	
+254	Proxy	Sat Nov 01 13:44:23 CET 2025	GET	http://localhost:8000/logout.php	302	Found	9	0	Bajo	false	
+255	Proxy	Sat Nov 01 13:44:23 CET 2025	GET	http://localhost:8000/login.php	200	OK	29	1388	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+256	Proxy	Sat Nov 01 13:44:24 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	4	842	Bajo	false	
+258	Proxy	Sat Nov 01 13:44:55 CET 2025	POST	http://localhost:8000/login.php	302	Found	38	0	Bajo	false	SetCookie
+259	Proxy	Sat Nov 01 13:44:55 CET 2025	GET	http://localhost:8000/login.php	200	OK	11	1381	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+260	Proxy	Sat Nov 01 13:44:55 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	8	842	Bajo	false	
+349	Proxy	Sat Nov 01 14:04:18 CET 2025	POST	https://spocs.getpocket.com/spocs	200	OK	780	1179	Bajo	false	JSON
+1794	Proxy	Sat Nov 01 14:16:29 CET 2025	GET	http://localhost:8000/	302	Found	8	0	Bajo	false	SetCookie
+1795	Proxy	Sat Nov 01 14:16:29 CET 2025	GET	http://localhost:8000/login.php	200	OK	16	1342	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+1796	Proxy	Sat Nov 01 14:16:29 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	24	842	Bajo	false	
+1800	Proxy	Sat Nov 01 14:16:35 CET 2025	POST	http://localhost:8000/login.php	302	Found	154	0	Bajo	false	SetCookie
+1801	Proxy	Sat Nov 01 14:16:36 CET 2025	GET	http://localhost:8000/index.php	200	OK	55	6530	Medio	false	Script
+1802	Proxy	Sat Nov 01 14:16:36 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	6	5149	Bajo	false	Comment
+1803	Proxy	Sat Nov 01 14:16:36 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	6	1240	Bajo	false	Comment
+1804	Proxy	Sat Nov 01 14:16:36 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	10	593	Bajo	false	
+1807	Proxy	Sat Nov 01 14:16:40 CET 2025	GET	http://localhost:8000/security.php	200	OK	57	5188	Medio	false	AntiCSRF,Form,Hidden,Script
+1808	Proxy	Sat Nov 01 14:16:40 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	6	1240	Bajo	false	Comment
+1809	Proxy	Sat Nov 01 14:16:40 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	12	593	Bajo	false	
+1810	Proxy	Sat Nov 01 14:16:40 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	17	5149	Bajo	false	Comment
+1814	Proxy	Sat Nov 01 14:16:47 CET 2025	POST	http://localhost:8000/security.php	302	Found	10	0	Bajo	false	SetCookie
+1815	Proxy	Sat Nov 01 14:16:47 CET 2025	GET	http://localhost:8000/security.php	200	OK	18	5257	Medio	false	AntiCSRF,Form,Hidden,Script
+1816	Proxy	Sat Nov 01 14:16:48 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	18	1240	Bajo	false	Comment
+1817	Proxy	Sat Nov 01 14:16:48 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	12	593	Bajo	false	
+1818	Proxy	Sat Nov 01 14:16:48 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	10	5149	Bajo	false	Comment
+1835	Proxy	Sat Nov 01 14:19:51 CET 2025	GET	http://localhost:8000/logout.php	302	Found	7	0	Bajo	false	
+1836	Proxy	Sat Nov 01 14:19:51 CET 2025	GET	http://localhost:8000/login.php	200	OK	20	1388	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+1837	Proxy	Sat Nov 01 14:19:51 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	7	842	Bajo	false	
+1839	Proxy	Sat Nov 01 14:19:58 CET 2025	POST	http://localhost:8000/login.php	302	Found	25	0	Bajo	false	SetCookie
+1840	Proxy	Sat Nov 01 14:19:58 CET 2025	GET	http://localhost:8000/index.php	200	OK	11	6523	Medio	false	Script
+1841	Proxy	Sat Nov 01 14:19:58 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	10	1240	Bajo	false	Comment
+1842	Proxy	Sat Nov 01 14:19:58 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	7	5149	Bajo	false	Comment
+1843	Proxy	Sat Nov 01 14:19:58 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	19	593	Bajo	false	
+1859	Proxy	Sat Nov 01 14:24:20 CET 2025	GET	https://ads-img.mozilla.org/v1/images?image_data=CnAKbmh0dHBzOi8vYW1wLWFzc2V0LjQ1dHUxYzAuY29tL2Fzc2V0cy8xNDc2LzkyNzIwM2E2ZjZkNDhhZjdhOGY3YTZiYjhhZjZkODI5OGNkZDBkNWIzZTc0OGI0ZDlkMTcxMzNkYTE3NWI1ZjIuanBnEiCGlGucybXNrWuyBJ9GcZ_b_f13CC8rpcEDI3taf76l8g	304	Not Modified	397	0	Bajo	false	
+2139	Proxy	Sat Nov 01 14:46:15 CET 2025	GET	http://localhost:8000/	302	Found	21	0	Bajo	false	SetCookie
+2140	Proxy	Sat Nov 01 14:46:15 CET 2025	GET	http://localhost:8000/login.php	200	OK	23	1342	Medio	false	AntiCSRF,Comment,Form,Hidden,Password
+2141	Proxy	Sat Nov 01 14:46:15 CET 2025	GET	http://localhost:8000/dvwa/css/login.css	200	OK	12	842	Bajo	false	
+2145	Proxy	Sat Nov 01 14:49:05 CET 2025	POST	http://localhost:8000/login.php	302	Found	11	0	Bajo	false	SetCookie
+2146	Proxy	Sat Nov 01 14:49:05 CET 2025	GET	http://localhost:8000/index.php	200	OK	10	6530	Medio	false	Script
+2147	Proxy	Sat Nov 01 14:49:06 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	13	5149	Bajo	false	Comment
+2148	Proxy	Sat Nov 01 14:49:06 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	8	1240	Bajo	false	Comment
+2149	Proxy	Sat Nov 01 14:49:06 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	22	593	Bajo	false	
+2153	Proxy	Sat Nov 01 14:49:09 CET 2025	GET	http://localhost:8000/vulnerabilities/sqli_blind/	200	OK	107	4767	Medio	false	AntiCSRF,Form,Hidden,Script
+2155	Proxy	Sat Nov 01 14:49:10 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	16	1240	Bajo	false	Comment
+2156	Proxy	Sat Nov 01 14:49:10 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	23	593	Bajo	false	
+2157	Proxy	Sat Nov 01 14:49:10 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	28	5149	Bajo	false	Comment
+2160	Proxy	Sat Nov 01 14:49:21 CET 2025	GET	http://localhost:8000/vulnerabilities/sqli/	200	OK	56	4698	Medio	false	AntiCSRF,Form,Hidden,Script
+2162	Proxy	Sat Nov 01 14:49:22 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	25	1240	Bajo	false	Comment
+2163	Proxy	Sat Nov 01 14:49:22 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	8	593	Bajo	false	
+2164	Proxy	Sat Nov 01 14:49:22 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	35	5149	Bajo	false	Comment
+2167	Proxy	Sat Nov 01 14:51:18 CET 2025	GET	http://localhost:8000/vulnerabilities/sqli/?id=1&Submit=Submit&user_token=099acdff57ef25d63cd830d52c9e4c9e	200	OK	42	4757	Medio	false	AntiCSRF,Form,Hidden,Script
+2168	Proxy	Sat Nov 01 14:51:18 CET 2025	GET	http://localhost:8000/dvwa/js/dvwaPage.js	200	OK	16	1240	Bajo	false	Comment
+2169	Proxy	Sat Nov 01 14:51:19 CET 2025	GET	http://localhost:8000/dvwa/js/add_event_listeners.js	200	OK	9	593	Bajo	false	
+2170	Proxy	Sat Nov 01 14:51:19 CET 2025	GET	http://localhost:8000/dvwa/css/main.css	200	OK	14	5149	Bajo	false	Comment
+2692	Proxy	Sat Nov 01 15:04:50 CET 2025	POST	https://spocs.getpocket.com/spocs	200	OK	131	1179	Bajo	false	JSON
